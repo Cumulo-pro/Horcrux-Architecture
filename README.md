@@ -1,4 +1,6 @@
 # Horcrux-Architecture
+![image](https://github.com/Cumulo-pro/Horcrux-Architecture/assets/2853158/0be621fc-094d-44ee-b194-305568cbc9e5)
+
 
 ## Enhancing Security and Availability in CometBFT Environments with Multi-Party Computation
 
