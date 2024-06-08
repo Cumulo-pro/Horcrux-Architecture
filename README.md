@@ -10,7 +10,9 @@ Horcrux is a multi-party-computation (MPC) signing service for CometBFT nodes. I
 
 [![Modify an existing Horcrux architecture](https://img.shields.io/badge/-Modify%20an%20existing%20Horcrux%20architecture-blue?style=for-the-badge)](https://github.com/Cumulo-pro/Horcrux-Architecture/wiki/Modify-an-existing-Horcrux-architecture)  
 
-[![Horcrux Metrics with Grafana & Prometheus](https://img.shields.io/badge/-Horcrux%20Metrics%20with%20Grafana%20&%20Prometheus-blue?style=for-the-badge)](https://github.com/Cumulo-pro/Horcrux-Architecture/wiki/Horcrux-metrics-with-Grafana-&-Prometheus)  
+[![Horcrux Metrics with Grafana & Prometheus](https://github.com/Cumulo-pro/Horcrux-Architecture/wiki/METRICS--from-Cumulo-Horcrux-Dashboard)  
+
+[![METRICS from Cumulo Horcrux Dashboard](https://img.shields.io/badge/-Horcrux%20Metrics%20with%20Grafana%20&%20Prometheus-blue?style=for-the-badge)](https://github.com/Cumulo-pro/Horcrux-Architecture/wiki/Horcrux-metrics-with-Grafana-&-Prometheus)  
 
 [![Horcrux Useful Commands](https://img.shields.io/badge/-Horcrux%20Useful%20Commands-blue?style=for-the-badge)](https://github.com/Cumulo-pro/Horcrux-Architecture/wiki/Horcrux-Useful-Commands)  
 
